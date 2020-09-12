@@ -7,8 +7,8 @@
   width: 300px;
 }
 
-#headertext {
-  font-size: 30px;
+#textheader1 {
+  font-size: 25px;
 }
 
 header {
@@ -31,6 +31,7 @@ ul {
   background-color: #c65252;
   margin-top: unset;
   padding-left: 65%;
+  font-size: 25px;
 }
 
 li {
